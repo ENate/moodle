@@ -4,8 +4,6 @@
 
 tasks:
   - name: intialize
-    init: npm install
-  - name: update-npm
     init: npm install -g npm@8.5.5
 
 
